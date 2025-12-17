@@ -2,9 +2,9 @@
 
 class CfgPatches
 {
-	class Template_Core
+	class TKERE_Core
 	{
-		name = "Template - Core";
+		name = "TKE Retexure Example - Core";
 		author = "Lupus590";
 		units[] = {};
 		weapons[] = {};
@@ -22,9 +22,9 @@ class CfgSettings
 	{
 		class Versioning // https://github.com/CBATeam/CBA_A3/wiki/Versioning-System
 		{
-			class Template_Core
+			class TKERE_Core
 			{
-				main_addon = "Template_Core";
+				main_addon = "TKERE_Core";
 			};
 		};
 	};

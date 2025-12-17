@@ -1,6 +1,6 @@
-name = "ArmA-3-Mod-Template"
+name = "TKE Retexure Example"
 author = "Lupus590"
-prefix = "template"
+prefix = "TKERE"
 mainprefix = "z"
 
 [version]
@@ -15,7 +15,7 @@ include = [
 ]
 
 [hemtt.release]
-folder = "ArmA-3-Mod-Template"
+folder = "TKE Retexure Example"
 
 [hemtt.launch.default]
 presets = [

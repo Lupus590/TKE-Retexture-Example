@@ -4,8 +4,8 @@ class CfgPatches
 	{
 		name = "TKE Retexure Example - Helmet Example";
 		author = "Lupus590";
-		units[] = {};
-		weapons[] =
+		units[] = {}; // backpacks and parts of uniforms (anything in CfgVehicles)
+		weapons[] = // guns, helmets, vests, nearly anything else (anything in CfgWeapons)
 		{
 			"TKERE_MercHelmFCF",
 			"TKERE_MercHelmClosedFCF",
@@ -24,7 +24,7 @@ class CfgWeapons
 	class TKERE_MercHelmFCF: TKE_MercHelmFCF
 	{
 		author="Rogue771 & Lupus590";
-		scope=2;
+		scope=2; // I don't really need this line as I inherit this value and then set it to be the same
 		displayName="[TKERE] ETH-50";
 		picture="\z\TKERE\addons\helmet_example\\logo.paa";
 		hiddenSelectionsTextures[]=

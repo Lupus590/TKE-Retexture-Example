@@ -9,7 +9,7 @@ class CfgPatches
 		requiredAddons[] =
 		{
 			"TKERE_Core",
-			"TKE_General_Gear",
+			"TKE_Uniform_Revamp",
 			"TKERE_Helmet_Example",
 		};
 	};

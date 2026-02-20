@@ -29,8 +29,6 @@ class CfgVehicles
 			"\TKE_Kuiper_Engagements\TKE_Uniform_Revamp\data\TKE_CombatUniExtrasFCF_co.paa"
 		};
 		displayName="[TKERE] UCCU-50 (Rolled V1)";
-		backpack="";
-		uniformClass="TKERE_CombatUniRolledV1FCF_U_B";
 	};
 };
 
@@ -43,13 +41,12 @@ class CfgWeapons
 	};
 	class TKERE_CombatUniRolledV1FCF_U_B: TKE_CombatUniRolledV1FCF_U_B
 	{
-		author="Rogue771";
+		author="Rogue771 & Lupus590";
 		displayName="[TKERE] UCCU-50 (Rolled V1)";
 		picture="\TKE_Kuiper_Engagements\TKE_Uniforms\ui\FCFLogoUI.paa";
-		model="\A3\Characters_F\Common\Suitpacks\suitpack_blufor_soldier";
+		model="\TKE_Kuiper_Engagements\TKE_Uniform_Revamp\TKE_CombatUniRolledV1.p3d";
 		class ItemInfo: ItemInfo
 		{
-			uniformModel="-";
 			uniformClass="TKERE_CombatUniRolledV1FCF_inf_B";
 			containerClass="Supply90";
 			mass=80;

@@ -26,7 +26,7 @@ class CfgWeapons
 		author="Rogue771 & Lupus590";
 		scope=2; // I don't really need this line as I inherit this value and then set it to be the same
 		displayName="[TKERE] ETH-50";
-		picture="\z\TKERE\addons\helmet_example\\logo.paa";
+		picture="\z\TKERE\addons\helmet_example\logo.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\z\TKERE\addons\helmet_example\TKE_MercHelmBFCF_co.paa",
@@ -37,9 +37,8 @@ class CfgWeapons
 	class TKERE_MercHelmClosedFCF: TKE_MercHelmClosedFCF
 	{
 		author="Rogue771 & Lupus590";
-		scope=2;
 		displayName="[TKERE] ETH-50 (Closed)";
-		picture="\z\TKERE\addons\helmet_example\\logo.paa";
+		picture="\z\TKERE\addons\helmet_example\logo.paa";
 		hiddenSelectionsTextures[]=
 		{
 			"\z\TKERE\addons\helmet_example\TKE_MercHelmBFCF_co.paa",

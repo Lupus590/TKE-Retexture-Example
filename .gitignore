@@ -4,10 +4,7 @@
 hemtt
 hemtt.exe
 *.biprivatekey
-*.hemttprivatekey
 releases/
-
+.hemttprivatekey
 .vscode
-build-config.json
-build/
 meta/tools/hemtt/

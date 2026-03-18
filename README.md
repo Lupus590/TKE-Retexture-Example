@@ -1,6 +1,8 @@
 # TKE Retexture Example
 An example mod for my friend who is new to modding.
 
+This project is on [GitHub](https://github.com/Lupus590/TKE-Retexture-Example).
+
 ## Getting Started
 See [meta/doc/Getting_Started.md](meta/doc/Getting_Started.md)
 
